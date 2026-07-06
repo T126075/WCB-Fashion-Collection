@@ -134,8 +134,8 @@ LAYOUT
 
 /* 閉じるボタン */
 #menu-close {
-　background-color: var(--brown);
-  border: 1px solid var(--light-green);
+    background-color: var(--brown);
+    border: 1px solid var(--light-green);
 }
 #menu-close svg {
   fill: var(--light-green);
