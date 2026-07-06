@@ -233,7 +233,7 @@ LAYOUT
     height: 40rem;
 }
 .shop-content {
-    background: ver(--white);
+    background: var(--white);
     padding: 3rem;
     position: absolute;
     top: -8rem;
